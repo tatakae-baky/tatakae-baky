@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jubair Al Baky 👋
 
-<!--
-**tatakae-baky/tatakae-baky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a student passionate about building web apps and learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Advanced React patterns
+- RESTful API development with Node.js
+- Modern Python for web and automation
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/jubair-al-baky/)
+
+---
+
+> “I am eager to learn and grow as a professional, and I am open to opportunities that will allow me to gain practical experience and build my skills.”

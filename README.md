@@ -1,6 +1,6 @@
 
 <h4 align="center"><samp> Hello there 👋🏾  welcome to my Github! My Name is Jubair Al Baky. I'm an undergraduate sophomore student
-from Brac University.🐍 ☁️ </samp></h4>
+from Brac University.🐍 </samp></h4>
 
 <p align="center">
   <img width="300" src="https://media.giphy.com/media/bGmzbqDKcmvyU/giphy.gif?cid=ecf05e479sqx4hhebffbercv1ks3zcscrj4x0f8c78x9i04f&ep=v1_stickers_related&rid=giphy.gif&ct=s">

@@ -1,26 +1,16 @@
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hello there 👋🏾  welcome to my Github! My Name is Jubair Al Baky. I'm an undergraduate sophomore student
+from Brac University.🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-
-
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+  <img width="300" src="https://media.giphy.com/media/bGmzbqDKcmvyU/giphy.gif?cid=ecf05e479sqx4hhebffbercv1ks3zcscrj4x0f8c78x9i04f&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 </p>
 
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+    <a href="https://github.com/tatakae-baky" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/tatakae-baky?style=flat-square&logo=Github&logoColor=white&labelColor=%230D1117&color=%230D1117"></a>
+    <a href="https://www.linkedin.com/in/jubair-al-baky/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -45,7 +35,6 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-</p>
   
 <p align="center"><samp>
 Check out my repos ⬇️  

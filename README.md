@@ -22,9 +22,7 @@ from Brac University.🐍 </samp></h4>
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
